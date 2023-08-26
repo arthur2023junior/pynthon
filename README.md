@@ -1,2 +1,2 @@
-# pynthon
- scripts de pynthon
+# python
+ scripts de python
